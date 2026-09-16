@@ -104,7 +104,7 @@ jobs:
 
       - name: Upload diagnostics
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: diagnostics-${{ matrix.configuration }}
           path: |
@@ -115,7 +115,7 @@ jobs:
 
       - name: Upload release package
         if: matrix.configuration == 'Release'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: Monitorian-release-${{ github.sha }}
           path: artifacts/release/*
