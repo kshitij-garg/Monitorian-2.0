@@ -3,6 +3,7 @@
 ![Monitorian 2.0 Banner](.github/social_preview.jpg)
 
 [![GitHub Release](https://img.shields.io/github/v/release/kshitij-garg/Monitorian-2.0?style=for-the-badge&color=2ea44f)](https://github.com/kshitij-garg/Monitorian-2.0/releases/latest)
+[![Live Simulator](https://img.shields.io/badge/Live_Simulator-Try_In_Browser-00E5FF?style=for-the-badge&logo=google-chrome)](https://kshitij-garg.github.io/#monitorian)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue?style=for-the-badge)](#)
 [![Main Contributor](https://img.shields.io/badge/main%20contributor-kshitij--garg-orange?style=for-the-badge)](https://github.com/kshitij-garg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-garg--kshitij-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/garg-kshitij)
@@ -11,6 +12,10 @@
 [![Source Version](https://img.shields.io/badge/source-v2.3.0-7b2cbf?style=for-the-badge)](CHANGELOG.md)
 
 **Monitorian 2.0** is an open-source Windows desktop utility to adjust the brightness and contrast of multiple monitors with ease. Developed and maintained by **[kshitij-garg](https://github.com/kshitij-garg)** (Main Contributor) as an enhanced continuation and independent fork of Monitorian, version 2.0 introduces community-requested quality-of-life improvements with absolute zero friction: a free native CLI engine, tray scroll OSD, automatic brightness restore on wake, full localization across 28 languages (including top Indian languages), and true single-file portable execution.
+
+> 🖥️ **Interactive Multi-Monitor Browser Simulator:**  
+> Test Monitorian 2.0's multi-display luminance sliders, middle-click instant blackout, circadian solar warmth curves, and DDC/CI CLI terminal directly in your browser:  
+> **👉 [https://kshitij-garg.github.io/#monitorian](https://kshitij-garg.github.io/#monitorian)** (or [Standalone Full-screen](https://kshitij-garg.github.io/monitorian-simulator/))
 
 ---
 
