@@ -5,6 +5,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/kshitij-garg/Monitorian-2.0?style=for-the-badge&color=2ea44f)](https://github.com/kshitij-garg/Monitorian-2.0/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue?style=for-the-badge)](#)
 [![Main Contributor](https://img.shields.io/badge/main%20contributor-kshitij--garg-orange?style=for-the-badge)](https://github.com/kshitij-garg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-garg--kshitij-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/garg-kshitij)
 [![License](https://img.shields.io/github/license/kshitij-garg/Monitorian-2.0?style=for-the-badge)](LICENSE.txt)
 [![Windows CI](https://github.com/kshitij-garg/Monitorian-2.0/actions/workflows/ci.yml/badge.svg)](https://github.com/kshitij-garg/Monitorian-2.0/actions/workflows/ci.yml)
 [![Source Version](https://img.shields.io/badge/source-v2.3.0-7b2cbf?style=for-the-badge)](CHANGELOG.md)
@@ -228,7 +229,7 @@ Monitorian 2.0 includes localization translations across 28 languages provided b
 
 ## Credits & License
 
-- **Main Contributor & Project Lead:** [Kshitij Garg (@kshitij-garg)](https://github.com/kshitij-garg).
+- **Main Contributor & Project Lead:** [Kshitij Garg (@kshitij-garg)](https://github.com/kshitij-garg) | [LinkedIn](https://in.linkedin.com/in/garg-kshitij).
 - **Foundational Architecture:** Created by [emoacht](https://github.com/emoacht).
 - **License:** Distributed under the [MIT License](LICENSE.txt).
 - **Contributing:** See the [contribution guide](docs/CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
